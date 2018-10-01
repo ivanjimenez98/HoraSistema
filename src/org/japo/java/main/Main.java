@@ -31,6 +31,6 @@ public class Main {
         System.out.printf("Hora del sistema... : %02d:%02d:%02d%n", hora, minuto, segundo);
         //comment
         
-        idjaosildjasodasd
+       // idjaosildjasodasd
     }
 }
