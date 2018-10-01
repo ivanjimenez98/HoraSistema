@@ -29,6 +29,6 @@ public class Main {
         int minuto = gc.get(Calendar.MINUTE);
         int segundo = gc.get(Calendar.SECOND);
         System.out.printf("Hora del sistema... : %02d:%02d:%02d%n", hora, minuto, segundo);
-        
+        //comment
     }
 }
